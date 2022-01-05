@@ -1,4 +1,1 @@
-C:/Users/17028/Documents/Coding/Python/test.py
-C:/Users/17028/Documents/Coding/Python/WEB_SCRAPE.py
-C:/Users/17028/Documents/Coding/Python/Text_Gui/sendemail_gui.py
-C:/Users/17028/Documents/Coding/Python/Script Manger/SCMAN.py
+
